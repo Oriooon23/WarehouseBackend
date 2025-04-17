@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|solutionrelative:warehouse.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC8D2AF-9CCA-4E40-B8F7-F81B0615F3E2}|Warehouse.Repositories\\Warehouse.Repositories.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC8D2AF-9CCA-4E40-B8F7-F81B0615F3E2}|Warehouse.Repositories\\Warehouse.Repositories.csproj|solutionrelative:warehouse.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|solutionrelative:warehouse.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|solutionrelative:warehouse.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|solutionrelative:warehouse.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|solutionrelative:warehouse.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\responses\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\responses\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.services\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|solutionrelative:warehouse.services\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.services\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD8D724-691E-4F69-827D-75995DC49744}|Warehouse.Services\\Warehouse.Services.csproj|solutionrelative:warehouse.services\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|solutionrelative:warehouse.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D865B688-653A-4BEB-9F47-C4BBE97DF262}|Warehouse.Data\\Warehouse.Data.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.data\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865B688-653A-4BEB-9F47-C4BBE97DF262}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\security\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\security\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6DA70B-9A10-49E9-AE2D-1916C54E450E}|Warehouse.Web\\Warehouse.Web.csproj|solutionrelative:warehouse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.interfaces\\servicesinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|solutionrelative:warehouse.interfaces\\servicesinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.interfaces\\repositoryinterfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|solutionrelative:warehouse.interfaces\\repositoryinterfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC8D2AF-9CCA-4E40-B8F7-F81B0615F3E2}|Warehouse.Repositories\\Warehouse.Repositories.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.repositories\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC8D2AF-9CCA-4E40-B8F7-F81B0615F3E2}|Warehouse.Repositories\\Warehouse.Repositories.csproj|solutionrelative:warehouse.repositories\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D865B688-653A-4BEB-9F47-C4BBE97DF262}|Warehouse.Data\\Warehouse.Data.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.data\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865B688-653A-4BEB-9F47-C4BBE97DF262}|Warehouse.Data\\Warehouse.Data.csproj|solutionrelative:warehouse.data\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.interfaces\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A563B19E-F4A6-4C9F-965B-BFDFE6AB1BA6}|Warehouse.Interfaces\\Warehouse.Interfaces.csproj|solutionrelative:warehouse.interfaces\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\dtos\\userdto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\dtos\\userdto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\baseprofile\\warehouseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\baseprofile\\warehouseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\responses\\errorcodeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\responses\\errorcodeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|c:\\users\\a475\\desktop\\warehousebackend\\warehouse.common\\responses\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E275DD8-8BCD-4002-AF2C-5FB3267AF46F}|Warehouse.Common\\Warehouse.Common.csproj|solutionrelative:warehouse.common\\responses\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Warehouse.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Warehouse.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:20:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Responses\\ResponseBase.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ResponseBase.cs",
+              "RelativeToolTip": "Warehouse.Common\\Responses\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:14:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Warehouse.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Warehouse.Web\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:11:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Services\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\GenericService.cs",
+              "RelativeToolTip": "Warehouse.Services\\Services\\GenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:04:56.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Warehouse.Web\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Warehouse.Web\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:02:58.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Policies.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\Policies.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Security\\Policies.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\Policies.cs",
+              "RelativeToolTip": "Warehouse.Common\\Security\\Policies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:02:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Warehouse.Web\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Warehouse.Web\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:01:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Web\\Program.cs",
+              "RelativeToolTip": "Warehouse.Web\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:59:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Warehouse.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:46:49.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Services\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Warehouse.Services\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:46:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Services\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Services\\Services\\AuthService.cs*",
+              "RelativeToolTip": "Warehouse.Services\\Services\\AuthService.cs*",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:39:30.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Warehouse.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:18:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\ServicesInterfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Interfaces\\ServicesInterfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\ServicesInterfaces\\IUserService.cs*",
+              "RelativeToolTip": "Warehouse.Interfaces\\ServicesInterfaces\\IUserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:58:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\RepositoryInterfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.Interfaces\\RepositoryInterfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\RepositoryInterfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Warehouse.Interfaces\\RepositoryInterfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:47:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Data\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Data\\Models\\Roles.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:46:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Data\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Warehouse.Data\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Data\\Models\\Orders.cs",
+              "RelativeToolTip": "Warehouse.Data\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:45:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\JwtService.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Security\\JwtService.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\JwtService.cs",
+              "RelativeToolTip": "Warehouse.Common\\Security\\JwtService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:38:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Warehouse.Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:40:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Security\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Security\\JwtSettings.cs",
+              "RelativeToolTip": "Warehouse.Common\\Security\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:44:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Repositories\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.Repositories\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Repositories\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Warehouse.Repositories\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:40:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\DTOs\\UserDTO\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\DTOs\\UserDTO\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\DTOs\\UserDTO\\AuthResponseDTO.cs",
+              "RelativeToolTip": "Warehouse.Common\\DTOs\\UserDTO\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:43:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\BaseProfile\\WarehouseProfile.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\BaseProfile\\WarehouseProfile.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\BaseProfile\\WarehouseProfile.cs",
+              "RelativeToolTip": "Warehouse.Common\\BaseProfile\\WarehouseProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:43:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorCodeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ErrorCodeExtensions.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Responses\\ErrorCodeExtensions.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ErrorCodeExtensions.cs",
+              "RelativeToolTip": "Warehouse.Common\\Responses\\ErrorCodeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:42:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "Warehouse.Common\\Responses\\ErrorCode.cs",
+              "ToolTip": "C:\\Users\\A475\\Desktop\\WarehouseBackend\\Warehouse.Common\\Responses\\ErrorCode.cs",
+              "RelativeToolTip": "Warehouse.Common\\Responses\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:42:54.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

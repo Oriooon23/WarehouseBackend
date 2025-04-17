@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AgcdXKyyUcV2izfF3NRGH4FtZpVq52tCkVtKZpQzYgU=",
+  "Source": "Warehouse.Web",
+  "BasePath": "_content/Warehouse.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
